@@ -1,0 +1,21 @@
+.Header{
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
+.Content{
+    margin-top: 3ch;
+    display: flex;
+    margin-left: 3ch;
+    gap: 20px;
+}
+.admin_nav{
+    background-color: bisque;
+    height: 13cm;
+}
+
+.content_display{
+    background-color: beige;
+    width: 1020px;
+}

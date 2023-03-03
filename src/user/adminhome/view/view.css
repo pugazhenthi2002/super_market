@@ -1,0 +1,6 @@
+.content_display{
+    background-color: black;
+    color: white;
+    display: flex;
+    gap: 10px;
+}
