@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/super_market/static/css/main.bbf97b68.css",
+    "main.js": "/super_market/static/js/main.2265a7ed.js",
+    "static/js/787.b0236bfc.chunk.js": "/super_market/static/js/787.b0236bfc.chunk.js",
+    "static/media/batman.png": "/super_market/static/media/batman.54aadfb440391108b38b.png",
+    "index.html": "/super_market/index.html",
+    "main.bbf97b68.css.map": "/super_market/static/css/main.bbf97b68.css.map",
+    "main.2265a7ed.js.map": "/super_market/static/js/main.2265a7ed.js.map",
+    "787.b0236bfc.chunk.js.map": "/super_market/static/js/787.b0236bfc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbf97b68.css",
+    "static/js/main.2265a7ed.js"
+  ]
+}
