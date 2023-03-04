@@ -7,7 +7,7 @@ function App() {
     const y=0;
     const [items,updated_items]=useState([]);
     useEffect(()=>{
-      fetch('http://localhost:3002/api/v1/viewlist',{method:'GET',mode:'cors'})
+      fetch('https://super-market-db.onrender.com/api/v1/viewlist',{method:'GET',mode:'cors'})
       .then(Response => Response.json())
       .then(json=>{updated_items(json)});
       },[y])
